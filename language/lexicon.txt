@@ -1,0 +1,131 @@
+﻿﻿!sil	sil
+<UNK>	sil
+ഒന്ന്	o n̪ n̪ ə 
+രണ്ട്	ɾ a ɳ ʈ ə 
+മൂന്ന്	m uː n̪ n̪ ə 
+നാല്	n̪ aː l ə 
+അഞ്ച്	a ɲ t͡ʃ ə 
+ആറ്	aː r ə 
+ഏഴ്	eː ɻ ə 
+എട്ട്	e ʈ ʈ ə 
+ഒൻപത്	o n p a t̪ ə 
+പൂജ്യം	p uː ɟ j a m 
+പത്ത്	p a t̪ t̪ ə 
+പതിനൊന്ന്	p a t̪ i n o n̪ n̪ ə 
+പന്ത്രണ്ട്	p a n̪ t̪ r a ɳ ʈ ə 
+പതിമൂന്ന്	p a t̪ i m uː n̪ n̪ ə 
+പതിനാല്	p a t̪ i n aː l ə 
+പതിനഞ്ച്	p a t̪ i n a ɲ t͡ʃ ə 
+പതിനാറ്	p a t̪ i n aː r ə 
+പതിനേഴ്	p a t̪ i n eː ɻ ə 
+പതിനെട്ട്	p a t̪ i n e ʈ ʈ ə 
+പത്തൊൻപത്	p a t̪ t̪ o n p a t̪ ə 
+ഇരുപത്	i ɾ u p a t̪ ə 
+മുപ്പത്	m u p p a t̪ ə 
+നാല്പത്	n̪ aː l p a t̪ ə 
+അൻപത്	a n p a t̪ ə 
+അറുപത്	a r u p a t̪ ə 
+എഴുപത്	e ɻ u p a t̪ ə 
+എൺപത്	e ɳ p a t̪ ə 
+തൊണ്ണൂറ്	t̪ o ɳ ɳ uː r ə 
+നൂറ്	n̪ uː r ə 
+ഇരുപത്തി	i ɾ u p a t̪ t̪ i 
+മുപ്പത്തി	m u p p a t̪ t̪ i 
+നാല്പത്തി	n̪ aː l p a t̪ t̪ i 
+അൻപത്തി	a n p a t̪ t̪ i 
+അറുപത്തി	a r u p a t̪ t̪ i 
+എഴുപത്തി	e ɻ u p a t̪ t̪ i 
+എൺപത്തി	e ɳ p a t̪ t̪ i 
+തൊണ്ണൂറ്റി	t̪ o ɳ ɳ uː ṯ ṯ i 
+നൂറ്റി	n̪ uː ṯ ṯ i 
+ഇരുന്നൂറ്	i ɾ u n̪ n̪ uː r ə 
+മുന്നൂറ്	m u n̪ n̪ uː r ə 
+നാന്നൂറ്	n̪ aː n̪ n̪ uː r ə 
+അഞ്ഞൂറ്	a ɲ ɲ uː r ə 
+അറുന്നൂറ്	a r u n̪ n̪ uː r ə 
+എഴുന്നൂറ്	e ɻ u n̪ n̪ uː r ə 
+എണ്ണൂറ്	e ɳ ɳ uː r ə 
+തൊള്ളായിരം	t̪ o ɭ ɭ aː j i ɾ a m 
+ആയിരം	aː j i ɾ a m 
+ഇരുന്നൂറ്റി	i ɾ u n̪ n̪ uː ṯ ṯ i 
+മുന്നൂറ്റി	m u n̪ n̪ uː ṯ ṯ i 
+നാന്നൂറ്റി	n̪ aː n̪ n̪ uː ṯ ṯ i 
+അഞ്ഞൂറ്റി	a ɲ ɲ uː ṯ ṯ i 
+അറുന്നൂറ്റി	a r u n̪ n̪ uː ṯ ṯ i 
+എഴുന്നൂറ്റി	e ɻ u n̪ n̪ uː ṯ ṯ i 
+എണ്ണൂറ്റി	e ɳ ɳ uː ṯ ṯ i 
+തൊള്ളായിരത്തി	t̪ o ɭ ɭ aː j i ɾ a t̪ t̪ i 
+ആയിരത്തി	aː j i ɾ a t̪ t̪ i 
+രണ്ടായിരം	ɾ a ɳ ʈ aː j i ɾ a m 
+മൂവായിരം	m uː ʋ aː j i ɾ a m 
+നാലായിരം	n̪ aː l aː j i ɾ a m 
+അയ്യായിരം	a j j aː j i ɾ a m 
+ആറായിരം	aː r aː j i ɾ a m 
+ഏഴായിരം	eː ɻ aː j i ɾ a m 
+എണ്ണായിരം	e ɳ ɳ aː j i ɾ a m 
+ഒമ്പതിനായിരം	o m p a t̪ i n aː j i ɾ a m 
+പതിനായിരം	p a t̪ i n aː j i ɾ a m 
+രണ്ടായിരത്തി	ɾ a ɳ ʈ aː j i ɾ a t̪ t̪ i 
+മൂവായിരത്തി	m uː ʋ aː j i ɾ a t̪ t̪ i 
+നാലായിരത്തി	n̪ aː l aː j i ɾ a t̪ t̪ i 
+അയ്യായിരത്തി	a j j aː j i ɾ a t̪ t̪ i 
+ആറായിരത്തി	aː r aː j i ɾ a t̪ t̪ i 
+ഏഴായിരത്തി	eː ɻ aː j i ɾ a t̪ t̪ i 
+എണ്ണായിരത്തി	e ɳ ɳ aː j i ɾ a t̪ t̪ i 
+ഒന്പതിനായിരത്തി	o n̪ p a t̪ i n aː j i ɾ a t̪ t̪ i 
+പതിനായിരത്തി	p a t̪ i n aː j i ɾ a t̪ t̪ i 
+പതിനൊന്നായിരം	p a t̪ i n o n̪ n̪ aː j i ɾ a m 
+പന്ത്രണ്ടായിരം	p a n̪ t̪ r a ɳ ʈ aː j i ɾ a m 
+പതിമൂവായിരം	p a t̪ i m uː ʋ aː j i ɾ a m 
+പതിനാലായിരം	p a t̪ i n aː l aː j i ɾ a m 
+പതിനഞ്ചായിരം	p a t̪ i n a ɲ t͡ʃ aː j i ɾ a m 
+പതിനയ്യായിരം	p a t̪ i n a j j aː j i ɾ a m 
+പതിനാറായിരം	p a t̪ i n aː r aː j i ɾ a m 
+പതിനേഴായിരം	p a t̪ i n eː ɻ aː j i ɾ a m 
+പതിനെട്ടായിരം	p a t̪ i n e ʈ ʈ aː j i ɾ a m 
+പതിനെണ്ണായിരം	p a t̪ i n e ɳ ɳ aː j i ɾ a m 
+പത്തൊൻപതിനായിരം	p a t̪ t̪ o n p a t̪ i n aː j i ɾ a m 
+ഇരുപതിനായിരം	i ɾ u p a t̪ i n aː j i ɾ a m 
+മുപ്പതിനായിരം	m u p p a t̪ i n aː j i ɾ a m 
+നാല്പതിനായിരം	n̪ aː l p a t̪ i n aː j i ɾ a m 
+അൻപതിനായിരം	a n p a t̪ i n aː j i ɾ a m 
+അറുപതിനായിരം	a r u p a t̪ i n aː j i ɾ a m 
+എഴുപതിനായിരം	e ɻ u p a t̪ i n aː j i ɾ a m 
+എൺപതിനായിരം	e ɳ p a t̪ i n aː j i ɾ a m 
+തൊണ്ണൂറായിരം	t̪ o ɳ ɳ uː r aː j i ɾ a m 
+ഇരുപത്തൊന്നായിരം	i ɾ u p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+ഇരുപത്തയ്യായിരം	i ɾ u p a t̪ t̪ a j j aː j i ɾ a m 
+ഇരുപത്തേഴായിരം	i ɾ u p a t̪ t̪ eː ɻ aː j i ɾ a m 
+ഇരുപത്തെണ്ണായിരം	i ɾ u p a t̪ t̪ e ɳ ɳ aː j i ɾ a m 
+ഇരുപത്തൊൻപതിനായിരം	i ɾ u p a t̪ t̪ o n p a t̪ i n aː j i ɾ a m 
+മുപ്പത്തൊന്നായിരം	m u p p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+മുപ്പത്തയ്യായിരം	m u p p a t̪ t̪ a j j aː j i ɾ a m 
+മുപ്പത്തേഴായിരം	m u p p a t̪ t̪ eː ɻ aː j i ɾ a m 
+മുപ്പത്തെണ്ണായിരം	m u p p a t̪ t̪ e ɳ ɳ aː j i ɾ a m 
+മുപ്പത്തൊൻപതിനായിരം	m u p p a t̪ t̪ o n p a t̪ i n aː j i ɾ a m 
+പന്തീരായിരം	p a n̪ t̪ iː ɾ aː j i ɾ a m 
+നാല്പത്തൊന്നായിരം	n̪ aː l p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+നാല്പത്തയ്യായിരം	n̪ aː l p a t̪ t̪ a j j aː j i ɾ a m 
+നാല്പത്തേഴായിരം	n̪ aː l p a t̪ t̪ eː ɻ aː j i ɾ a m 
+നാല്പത്തെണ്ണായിരം	n̪ aː l p a t̪ t̪ e ɳ ɳ aː j i ɾ a m 
+നാല്പത്തൊമ്പതിനായിരം	n̪ aː l p a t̪ t̪ o m p a t̪ i n aː j i ɾ a m 
+അൻപത്തൊന്നായിരം	a n p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+അൻപത്തയ്യായിരം	a n p a t̪ t̪ a j j aː j i ɾ a m 
+അൻപത്തേഴായിരം	a n p a t̪ t̪ eː ɻ aː j i ɾ a m 
+അൻപത്തെട്ടായിരം	a n p a t̪ t̪ e ʈ ʈ aː j i ɾ a m 
+അൻപത്തൊൻപതിനായിരം	a n p a t̪ t̪ o n p a t̪ i n aː j i ɾ a m 
+അറുപത്തൊന്നായിരം	a r u p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+അറുപത്തയ്യായിരം	a r u p a t̪ t̪ a j j aː j i ɾ a m 
+അറുപത്തേഴായിരം	a r u p a t̪ t̪ eː ɻ aː j i ɾ a m 
+അറുപത്തെട്ടായിരം	a r u p a t̪ t̪ e ʈ ʈ aː j i ɾ a m 
+അറുപത്തൊൻപതിനായിരം	a r u p a t̪ t̪ o n p a t̪ i n aː j i ɾ a m 
+എഴുപത്തൊന്നായിരം	e ɻ u p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+എഴുപത്തയ്യായിരം	e ɻ u p a t̪ t̪ a j j aː j i ɾ a m 
+എഴുപത്തേഴായിരം	e ɻ u p a t̪ t̪ eː ɻ aː j i ɾ a m 
+എഴുപത്തെട്ടായിരം	e ɻ u p a t̪ t̪ e ʈ ʈ aː j i ɾ a m 
+എഴുപത്തൊൻപതിനായിരം	e ɻ u p a t̪ t̪ o n p a t̪ i n aː j i ɾ a m 
+എൺപത്തൊന്നായിരം	e ɳ p a t̪ t̪ o n̪ n̪ aː j i ɾ a m 
+എൺപത്തയ്യായിരം	e ɳ p a t̪ t̪ a j j aː j i ɾ a m 
+എൺപത്തേഴായിരം	e ɳ p a t̪ t̪ eː ɻ aː j i ɾ a m 
+എൺപത്തെട്ടായിരം	e ɳ p a t̪ t̪ e ʈ ʈ aː j i ɾ a m 
+sil
